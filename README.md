@@ -52,6 +52,11 @@ html, 정규식 처리 여부 및 출력 코퍼스 라인 당 최소 단어 갯�
 
 
 ----
-### Contrubute
+### Author
+Name: Kim, Chan  
+Email: sputnik7565@gmail.com
+
+----
+### Contrubutors
 - PowerVoice 박정운 프로
 - PowerVoice 홍두기 프로
