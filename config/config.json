@@ -1,0 +1,7 @@
+{
+  "input_path": "data.txt",
+  "func_html": true,
+  "func_kss": false,
+  "func_min_words_delete": true,
+  "min_words": 4
+}
